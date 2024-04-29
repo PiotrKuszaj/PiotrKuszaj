@@ -1,7 +1,7 @@
 # Hello, I'm Piotr!
 <a href="https://www.linkedin.com/in/piotrkuszaj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I Currently teach Python and carry experience in vulnerability management, auditing, and cybersecurity employee training. I am seeking to bring my global foundational knowledge in IT to join a Security Operations Center (SOC) as a Tier 1 Analyst.<br><br><br><br>
+I teach Python and have experience in vulnerability management, auditing, and cybersecurity employee training. I am seeking to bring my global foundational knowledge in IT to join a Security Operations Center (SOC) as a Tier 1 Analyst.<br><br><br><br>
 
 💡 Fun fact I was Team Captain of my Esports Team in college  <img src="https://img.shields.io/badge/Valorant-FF4654?style=flat-square&logo=valorant&logoColor=white" /><br><br>
 
