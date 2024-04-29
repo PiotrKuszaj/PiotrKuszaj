@@ -1,11 +1,11 @@
-# Hello, I'm Piotr
+# Hello, I'm Piotr!
 <a href="https://www.linkedin.com/in/piotrkuszaj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate aiming to continuosly grow my knowledge.
+I Currently teach Python and carry experience in vulnerability management, auditing, and cybersecurity employee training. I am seeking to bring my global foundational knowledge in IT to join a Security Operations Center (SOC) as a Tier 1 Analyst.<br><br><br><br>
 
-## Objective
+💡 Fun fact I was Team Captain of my Esports Team in college  <img src="https://img.shields.io/badge/Valorant-FF4654?style=flat-square&logo=valorant&logoColor=white" /><br><br>
 
-I like staying on top of trends and problem-solving. These passions brought me to the field of cybersecurity. Where I am eager to join a Security Operations Center as a Tier 1 Analyst.
+
 
 ## Tools
 
@@ -28,7 +28,8 @@ I like staying on top of trends and problem-solving. These passions brought me t
 
 ### Vulnerability
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-339933?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-339933?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-6D6E71?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ### Cloud Computing
@@ -47,4 +48,5 @@ I like staying on top of trends and problem-solving. These passions brought me t
 <img src="https://img.shields.io/badge/National_Incident_Management_System_(NIMS)%3A%20ICS--100-FEMA-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Security_Operations_and_Defense_Analyst-Splunk-008272?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Understanding_Threats_%26_Attacks-Splunk-4A90E2?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Vulnerability_Management_Detection_and_Response-Qualys-6D6E71?style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
